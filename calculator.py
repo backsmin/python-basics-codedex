@@ -5,7 +5,6 @@ shape = input(
     'Which shape\'s area would you like to calculate ? \n 1. Square \n 2. Rectangle \n 3. Triangle \n 4. Circle \n ')
 
 # Conditionals to determine the shape's are by user's choice
-
 # 1. Square
 if shape == '1' or shape == '1.':
     side = float(
